@@ -33,6 +33,7 @@
     $lang["t-vertodos"]="Ver todos";
 
 
+
     $lang["t-SellList"] = "Sale List";
     $lang["t-ListOfSuppliers"] = "List Of Suppliers";
     $lang["t-BranchList"] = "Branch List";
@@ -40,8 +41,8 @@
     $lang["t-ListOfEmployees"] = "List Of Employees";
     $lang["t-ListOfCategory"] = "List Of Category";
 
+    ///index actualizado dav
 
-    ///index
 
     $lang["t-topproductos"]="Top productos";
     $lang["t-topproveedores"]="Top proveedores";
